@@ -10,3 +10,5 @@ def preprocess(df,region_df):
     # one hot encoding medals
     df = pd.concat([df, pd.get_dummies(df['Medal'])], axis=1)
     return df
+
+#done

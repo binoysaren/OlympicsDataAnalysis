@@ -174,4 +174,6 @@ if user_menu == 'Athlete wise Analysis':
     st.plotly_chart(fig)
 
 
+#done
+
 
